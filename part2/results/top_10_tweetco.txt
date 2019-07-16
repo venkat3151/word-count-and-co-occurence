@@ -1,0 +1,10 @@
+election|vote	2783
+president|trump	2657
+people|trump	2123
+election|trump	2093
+democrat|trump	1717
+election|people	1551
+election|party	1342
+election|state	1286
+american|trump	1118
+return|trump	1054

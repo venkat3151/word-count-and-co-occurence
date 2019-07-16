@@ -1,0 +1,10 @@
+president|trump	26878
+state|trump	12694
+election|party	11807
+house|trump	11484
+administration|trump	10567
+people|trump	10174
+people|president	8814
+house|president	8604
+president|state	7627
+party|trump	7158

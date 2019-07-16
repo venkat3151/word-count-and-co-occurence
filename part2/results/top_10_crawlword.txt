@@ -1,0 +1,10 @@
+news	3283
+trump	1452
+world	1316
+state	1129
+people	1070
+american	855
+health	764
+policy	761
+system	662
+house	648
